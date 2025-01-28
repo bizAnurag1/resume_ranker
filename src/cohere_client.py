@@ -1,6 +1,6 @@
 import cohere
-from config import COHERE_API_KEY, PROMPT_TEMPLATE
-
+from config import PROMPT_TEMPLATE
+from env import COHERE_API_KEY
 class CohereClient:
     def __init__(self):
         self.client = cohere.Client(COHERE_API_KEY)

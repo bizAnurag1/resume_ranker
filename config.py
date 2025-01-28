@@ -1,5 +1,3 @@
-COHERE_API_KEY = "Ky7IeZBS1GCGBcRIirNLZlGAJHCtcn6z1xiOpGIl"
-
 json_content = """{{
     "name": "",
     "email" : "",

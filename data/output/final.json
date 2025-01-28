@@ -1,0 +1,383 @@
+[
+    {
+        "name": "Abhishek Pandey",
+        "email": "pandey86@live.com",
+        "phone_1": "+91 9008938916",
+        "address": "Not provided",
+        "city": "Bengaluru",
+        "linkedin": "Not provided",
+        "professional_experience_in_years": "4+",
+        "relevant_experience_in_years": "4+",
+        "highest_education": "Masters of Technology",
+        "is_fresher": "no",
+        "is_student": "no",
+        "skills": [
+            "Machine Learning modeling and Deep Learning algorithms",
+            "Chatbot Design and Development",
+            "Generative AI for NLU, NLG and Images",
+            "LLM model Fine-tuning;Lora, QLora",
+            "Prompt Engineering",
+            "RAG",
+            "NLP applications",
+            "Computer Vision applications",
+            "AI applications in production",
+            "Time Series forecasting",
+            "Statistics",
+            "Data Visualization & Analysis using Tableau, PowerBi and Matplotlib"
+        ],
+        "applied_for_profile": "AI and ML Engineer",
+        "education": [
+            {
+                "institute_name": "PES University",
+                "year_of_passing": "2022",
+                "score": "8.99 GPA"
+            },
+            {
+                "institute_name": "Sapthagiri College of Engineering",
+                "year_of_passing": "2018",
+                "score": "62%"
+            }
+        ],
+        "professional_experience": [
+            {
+                "organisation_name": "Randstad Digital Pvt. Ltd.",
+                "duration": "Nov'23 - Present",
+                "profile": "Sr. Software Engineer - AI and ML"
+            },
+            {
+                "organisation_name": "Optimal Strategix Group Inc",
+                "duration": "Mar '22 - Sep'23",
+                "profile": "Analyst-Advanced Analytics (R&D)"
+            },
+            {
+                "organisation_name": "IFB Automotive Pvt Ltd",
+                "duration": "Mar'19 - Sept 19",
+                "profile": "Graduate Engineer - Research and Development"
+            },
+            {
+                "organisation_name": "Prakash Parcel Services Ltd",
+                "duration": "Oct'17 - Dec'18",
+                "profile": "Logistics Analyst"
+            }
+        ],
+        "Similarity_Score": 66.36987657116461
+    },
+    {
+        "name": "Charita Bajaj",
+        "email": "charitabajaj@gmail.com",
+        "phone_1": "+91-9878610659",
+        "address": "Not provided",
+        "city": "Not provided",
+        "linkedin": "Not provided",
+        "professional_experience_in_years": "6+",
+        "relevant_experience_in_years": "6+",
+        "highest_education": "MBA",
+        "is_fresher": "no",
+        "is_student": "no",
+        "skills": [
+            "Python",
+            "Tensorflow",
+            "Keras",
+            "Pytorch",
+            "NLP",
+            "Decision trees",
+            "Random Forest",
+            "k-nearest neighbors",
+            "SVM",
+            "k-means clustering",
+            "Linear regression",
+            "logistic regression",
+            "neural networks",
+            "reinforcement learning",
+            "Image classification",
+            "object detection",
+            "semantic segmentation",
+            "data analysis",
+            "Convolutional neural networks",
+            "Recurrent neural networks",
+            "Long short term networks (LSTM)",
+            "Generative adversial networks (GANs)",
+            "LLMOps",
+            "Large model deployments",
+            "LLM Security",
+            "Vector databases",
+            "AI and LLM Development",
+            "data trust",
+            "security",
+            "Gen AI",
+            "limo principles",
+            "prompt engineering",
+            "Langchain",
+            "Reinforcement learning",
+            "Azure cloud services",
+            "ethical AI practices",
+            "Transformer based LLMs",
+            "BERT",
+            "ROBERTa",
+            "DistilBERT",
+            "Hugging Face models",
+            "hyper parameter tuning",
+            "regularization techniques",
+            "open-source libraries",
+            "AI/ML/DL",
+            "Masters in Artificial intelligence and Deep Learning",
+            "responsible AI practices",
+            "transparency",
+            "interpretability"
+        ],
+        "applied_for_profile": "Not provided",
+        "education": [
+            {
+                "institute_name": "ICFAI Business School, Hyderabad",
+                "year_of_passing": "2016",
+                "score": "7.2 (CGPA)"
+            },
+            {
+                "institute_name": "Sukhmani Institute of Engineering & Technology, Chandigarh",
+                "year_of_passing": "2013",
+                "score": "77"
+            },
+            {
+                "institute_name": "Government Model Senior Secondary School - 35, Chandigarh",
+                "year_of_passing": "2009",
+                "score": "61.5"
+            },
+            {
+                "institute_name": "Shivalik Public School",
+                "year_of_passing": "2007",
+                "score": "86.6"
+            }
+        ],
+        "professional_experience": [
+            {
+                "organisation_name": "Channel Fusion",
+                "duration": "24th July 2024 to Present",
+                "profile": "Senior AI Engineer"
+            },
+            {
+                "organisation_name": "Incture Technology Pvt. Ltd.",
+                "duration": "1st January 2022 to 14th June 2024",
+                "profile": "AI Engineer / Data Scientist, Machine Learning Engineer, Quality Consultant"
+            },
+            {
+                "organisation_name": "eClerx India Pvt. Ltd.",
+                "duration": "14th March 2016 to 30th August 2019",
+                "profile": "Quality Consultant (Black Belt), Predictive analytics professional and Data consultant"
+            }
+        ],
+        "Similarity_Score": 68.85249102982624
+    },
+    {
+        "name": "DEEPALIGHODKIDESHMUKH",
+        "email": "deepali.deshmukh0327@gmail.com",
+        "phone_1": "8080107733",
+        "address": "",
+        "city": "",
+        "linkedin": "www.linkedin.com/in/deepali-deshmukh-12540326",
+        "professional_experience_in_years": "Not provided",
+        "relevant_experience_in_years": "Not provided",
+        "highest_education": "Bachelor of Computer Engineering",
+        "is_fresher": "no",
+        "is_student": "no",
+        "skills": [
+            "Python",
+            "Django",
+            "Flask",
+            "AWS Bedrock",
+            "Claude",
+            "Anthropic",
+            "Mistral",
+            "RAG",
+            "Vertex AI",
+            "Gemini",
+            "BeautifulSoup",
+            "NLTK",
+            "NumPy",
+            "PandasProfiling",
+            "Scikit-Learn",
+            "boto3",
+            "PostgreSQL",
+            "Redis",
+            "Power BI",
+            "Grafana",
+            "OSS",
+            "ELK",
+            "Jenkins",
+            "AWS (EC2, Application Deployment)",
+            "GCP",
+            "Azure",
+            "lambda function",
+            "S3",
+            "VSCode",
+            "PyCharm",
+            "Jupyter",
+            "ChatGPT-turbo",
+            "Clustering",
+            "Regression",
+            "Classification",
+            "Decision Trees",
+            "Random Forest",
+            "Log Analysis",
+            "Incident Management",
+            "Resource Optimization",
+            "Data Pattern Analysis",
+            "KPI Analysis",
+            "Reporting",
+            "NLP",
+            "OpenAI DarvinC",
+            "Web Scraping",
+            "Sentiment Analysis",
+            "Model Tuning",
+            "Grid Search",
+            "Data Collection",
+            "Data Cleaning",
+            "Textual Analysis",
+            "Presentation Skills",
+            "Key Account Management",
+            "Competitive Analysis",
+            "Customer Escalation Handling",
+            "MIS Improvement",
+            "IT Support",
+            "Report Generation",
+            "Periodic Reporting",
+            "Network Troubleshooting",
+            "Hardware Troubleshooting",
+            "Software Troubleshooting"
+        ],
+        "applied_for_profile": "Not provided",
+        "education": [
+            {
+                "institute_name": "Not provided",
+                "year_of_passing": "2006",
+                "score": "Not provided"
+            }
+        ],
+        "professional_experience": [
+            {
+                "organisation_name": "Capgemini Technology Services India",
+                "duration": "06/2021 - present",
+                "profile": "Gen AI Developer"
+            },
+            {
+                "organisation_name": "Innodatatics",
+                "duration": "08/2019 - 04/2020",
+                "profile": "Data Scientist (Intern)"
+            },
+            {
+                "organisation_name": "SIDBI 3rd party payroll (payrol-Omnitech Solution)",
+                "duration": "01/2011 - 07/2014",
+                "profile": "Sr. MIS Executive"
+            },
+            {
+                "organisation_name": "Anmol Computers - Client Thomson Reuters",
+                "duration": "11/2009 - 07/2010",
+                "profile": "IT Executive"
+            }
+        ],
+        "Similarity_Score": 12.878185658223181
+    },
+    {
+        "name": "DEEPALIGHODKIDESHMUKH",
+        "email": "deepali.deshmukh0327@gmail.com",
+        "phone_1": "8080107733",
+        "address": "Not provided",
+        "city": "Not provided",
+        "linkedin": "www.linkedin.com/in/deepali-deshmukh-12540326",
+        "professional_experience_in_years": "Not provided",
+        "relevant_experience_in_years": "Not provided",
+        "highest_education": "Bachelor of Computer Engineering",
+        "is_fresher": "no",
+        "is_student": "no",
+        "skills": [
+            "GenAI: AWS Bedrock, Claude, Anthropic, Mistral, RAG, VertexAI, Gemini",
+            "Text Mining: BeautifulSoup, NLTK",
+            "Python Libraries: NumPy, PandasProfiling, Scikit-Learn, boto3",
+            "Databases: PostgreSQL, Redis",
+            "Frameworks: Django, Flask",
+            "Visualization: PowerBI, Grafana, OSS, ELK",
+            "CI/CD Tools: Jenkins",
+            "Cloud Computing: AWS (EC2, Application Deployment), GCP, Azure, lambda function, S3",
+            "Development Tools: VSCode, PyCharm, Jupyter, ChatGPT-turbo",
+            "Machine Learning Algorithms: Clustering, Regression, Classification, Decision Trees, Random Forest"
+        ],
+        "applied_for_profile": "Not provided",
+        "education": [
+            {
+                "institute_name": "Not provided",
+                "year_of_passing": "2006",
+                "score": "Not provided"
+            },
+            {
+                "institute_name": "Not provided",
+                "year_of_passing": "Not provided",
+                "score": "Not provided"
+            }
+        ],
+        "professional_experience": [
+            {
+                "organisation_name": "Capgemini Technology Services India",
+                "duration": "06/2021 - Present",
+                "profile": "GenAI Developer"
+            },
+            {
+                "organisation_name": "Innodatatics",
+                "duration": "08/2019 - 04/2020",
+                "profile": "Data Scientist (Intern)"
+            },
+            {
+                "organisation_name": "SIDBI 3rd party payroll (payrol-Omnitech Solution)",
+                "duration": "01/2011 - 07/2014",
+                "profile": "Sr. MIS Executive"
+            },
+            {
+                "organisation_name": "Anmol Computers - Client Thomson Reuters",
+                "duration": "11/2009 - 07/2010",
+                "profile": "IT Executive"
+            }
+        ],
+        "Similarity_Score": 12.878185658223181
+    },
+    {
+        "name": "Gourav Kumar",
+        "email": "gouravsingh096@gmail.com",
+        "phone_1": "+917004188671",
+        "address": "Not provided",
+        "city": "Bengaluru",
+        "linkedin": "https://www.linkedin.com/in/gourav-kumar1996/",
+        "professional_experience_in_years": "5+",
+        "relevant_experience_in_years": "5+",
+        "highest_education": "B.E in Electronics Engineering",
+        "is_fresher": "no",
+        "is_student": "no",
+        "skills": [
+            "AI & ML Frameworks: PyTorch, TensorFlow, ONNX, NVIDIA TLT, NVIDIA TensorRT, Model Quantization, DeepStream, OpenCV, Yolo, Time Series Analysis, IoT (MQTT)",
+            "Computer Vision: DeepStream, OpenCV, TensorRT, Video Analytics, Object Detection",
+            "Programming: Python, C++, SQL, CUDA",
+            "Deployment & Optimization: GPU-accelerated Pipelines, Low-powered ARM-based Devices, Jetson Xavier NX",
+            "Industry Expertise: Manufacturing, Petroleum, Telecommunication, Safety Systems",
+            "Other: Data Science, NLP, Time Series Analysis, Gen-AI, LangChain",
+            "Soft Skills: Excellent communication, problem-solving, analytical, and teamwork skills"
+        ],
+        "applied_for_profile": "Not provided",
+        "education": [
+            {
+                "institute_name": "MIT Academy of Engineering, Pune",
+                "year_of_passing": "July 2018",
+                "score": "Not provided"
+            }
+        ],
+        "professional_experience": [
+            {
+                "organisation_name": "Sparkcognition",
+                "duration": "May 2022 - Present",
+                "profile": "Senior AI Engineer"
+            },
+            {
+                "organisation_name": "Integration Wizards Solutions",
+                "duration": "Oct 2018 - Jul 2021",
+                "profile": "Senior AI Engineer"
+            }
+        ],
+        "Similarity_Score": 62.682686059983915
+    }
+]
